@@ -36,10 +36,3 @@ Feature: Login Feature
     And user clicks login button
     Then user verifies error message
     #And close driver
-    #Code A
-    #Code B
-    #Remote A
-    #42B
-    #Remote B
-    #Code 42 B
-
