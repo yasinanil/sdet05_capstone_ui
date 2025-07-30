@@ -40,3 +40,6 @@ Feature: Login Feature
     #Code B
     #Remote A
     #42B
+    #Remote B
+    #Code 42 B
+
